@@ -1,4 +1,4 @@
-# awesome-Face_Recognition   
+# awesome-face-recognition-1   
 this collecting the papers (main from arxiv.org) about bellow themes:  
 > * **[Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection)**;   
 > * **[Face Alignment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment)**;   
